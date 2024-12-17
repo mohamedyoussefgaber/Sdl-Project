@@ -1,0 +1,13 @@
+﻿  main.cpp
+C:\Users\LENOVO\Desktop\sdl_project\sdl_project\screen.h(55,46): warning C4305: '+=': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\LENOVO\Desktop\sdl_project\sdl_project\screen.h(139,10): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\LENOVO\Desktop\sdl_project\sdl_project\screen.h(139,17): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\LENOVO\Desktop\sdl_project\sdl_project\main.cpp(21,44): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\LENOVO\Desktop\sdl_project\sdl_project\main.cpp(21,38): warning C4305: 'argument': truncation from 'double' to 'float'
+  sdl_project.vcxproj -> C:\Users\LENOVO\Desktop\sdl_project\x64\Debug\sdl_project.exe
